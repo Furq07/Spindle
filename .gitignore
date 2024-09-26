@@ -1,0 +1,14 @@
+# maven
+target/
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# java
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
