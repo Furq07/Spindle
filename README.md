@@ -188,7 +188,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-If you encounter any problems or have any questions, please open an issue on the GitHub repository.
+If you encounter any problems or have any questions, please open an issue on the GitHub repository or join [Discord Server](https://discord.gg/XhZzmvzPDV)
 
 ---
 
